@@ -38,6 +38,11 @@ namespace Batch13Oops
             Console.WriteLine($"NewName: {NameNew}, NewAge: {AgeNew}");
 
         }
+        public void Test()
+        {
+            Console.WriteLine($"NewName: {NameNew}, NewAge: {AgeNew}");
+
+        }
     }
     internal class CopyConstructor
     {
