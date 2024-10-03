@@ -5,8 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>Assignments.AbstractClassAssign</StartupObject>
-
+	  <StartupObject>Practice.Test</StartupObject>
   </PropertyGroup>
 
 </Project>
