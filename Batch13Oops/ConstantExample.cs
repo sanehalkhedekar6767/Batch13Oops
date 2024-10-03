@@ -18,7 +18,7 @@ namespace Batch13Oops
         {
             Console.WriteLine($"The value  of pi is: {pi}");
             Console.WriteLine($"Application name is: {AppName}");
-           // AppName = "Test new";  //cant chaneg as it is decalred as constant
+            //AppName = "Test new";  //cant chaneg as it is decalred as constant
             name = "Test1";
             Console.WriteLine(name);
         }

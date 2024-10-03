@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Batch13Oops
 {
-    class ArrayArithmetic
+    internal class Test
     {
     }
 }
